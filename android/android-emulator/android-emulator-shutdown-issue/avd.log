@@ -1,0 +1,1914 @@
+emulator: Android virtual device file at: C:\Users\Wojtek\.android\avd\Nexus_6_API_25.ini
+emulator: virtual device content at C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd
+emulator: virtual device config file: C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\config.ini
+emulator: using core hw config path: C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\hardware-qemu.ini
+emulator: using snapshot lock path: C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\snapshot.lock
+emulator: using multi-instance lock path: C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\multiinstance.lock
+emulator: Found target field in root AVD .ini file: 'android-25'
+emulator: Found AVD target API level: 25
+emulator:     found image search path: system-images\android-25\default\x86_64\
+emulator: found a total of 1 search paths for this AVD
+emulator: found build.prop in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: Read property file at f:\android\sdk\system-images\android-25\default\x86_64\\build.prop
+emulator:     no boot.prop in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: No boot.prop property file found.
+emulator: found skin 'nexus_6' in directory: f:\android\sdk\skins\
+emulator: autoconfig: -skin nexus_6
+emulator: autoconfig: -skindir f:\android\sdk\skins\
+emulator: no skin-specific hardware.ini in f:\android\sdk\skins\
+emulator:     no kernel-ranchu-64 in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: found kernel-ranchu in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: autoconfig: -kernel f:\android\sdk\system-images\android-25\default\x86_64\\kernel-ranchu
+emulator: Target arch = 'x86_64'
+emulator: Auto-detect: Kernel image requires new device naming scheme.
+emulator: Auto-detect: Kernel does not support YAFFS2 partitions.
+emulator: found ramdisk.img in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: autoconfig: -ramdisk f:\android\sdk\system-images\android-25\default\x86_64\\ramdisk.img
+emulator: found system.img in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: Using initial system image: f:\android\sdk\system-images\android-25\default\x86_64\\system.img
+emulator:     no vendor.img in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: No vendor image
+emulator: autoconfig: -data C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\userdata-qemu.img
+emulator: autoconfig: -initdata C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\userdata.img
+emulator: autoconfig: -cache C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\cache.img
+emulator: autoconfig: -sdcard C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\sdcard.img
+emulator: Physical RAM size: 1024MB
+
+emulator: System image is read only
+emulator: Found 4 DNS servers: 192.168.1.1 fec0:0:0:ffff::1 fec0:0:0:ffff::2 fec0:0:0:ffff::3
+emulator: found advancedFeatures.ini in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+INFO: IniFile.cpp:101: Line 1: Skipped comment line.
+INFO: IniFile.cpp:101: Line 2: Skipped comment line.
+INFO: IniFile.cpp:101: Line 3: Skipped comment line.
+INFO: IniFile.cpp:94: Line 4: Skipped empty line.
+INFO: IniFile.cpp:101: Line 5: Skipped comment line.
+INFO: IniFile.cpp:101: Line 6: Skipped comment line.
+INFO: IniFile.cpp:101: Line 7: Skipped comment line.
+INFO: IniFile.cpp:101: Line 8: Skipped comment line.
+INFO: IniFile.cpp:101: Line 9: Skipped comment line.
+INFO: IniFile.cpp:101: Line 10: Skipped comment line.
+INFO: IniFile.cpp:101: Line 11: Skipped comment line.
+INFO: IniFile.cpp:101: Line 12: Skipped comment line.
+INFO: IniFile.cpp:101: Line 13: Skipped comment line.
+INFO: IniFile.cpp:101: Line 15: Skipped comment line.
+INFO: IniFile.cpp:94: Line 16: Skipped empty line.
+INFO: IniFile.cpp:101: Line 17: Skipped comment line.
+INFO: IniFile.cpp:101: Line 18: Skipped comment line.
+INFO: IniFile.cpp:101: Line 19: Skipped comment line.
+INFO: IniFile.cpp:101: Line 20: Skipped comment line.
+INFO: IniFile.cpp:101: Line 21: Skipped comment line.
+INFO: IniFile.cpp:101: Line 22: Skipped comment line.
+INFO: IniFile.cpp:101: Line 23: Skipped comment line.
+INFO: IniFile.cpp:101: Line 24: Skipped comment line.
+INFO: IniFile.cpp:101: Line 25: Skipped comment line.
+INFO: IniFile.cpp:101: Line 26: Skipped comment line.
+INFO: IniFile.cpp:101: Line 27: Skipped comment line.
+INFO: IniFile.cpp:101: Line 28: Skipped comment line.
+INFO: IniFile.cpp:101: Line 29: Skipped comment line.
+INFO: IniFile.cpp:101: Line 30: Skipped comment line.
+INFO: IniFile.cpp:101: Line 31: Skipped comment line.
+INFO: IniFile.cpp:101: Line 32: Skipped comment line.
+INFO: IniFile.cpp:101: Line 33: Skipped comment line.
+INFO: IniFile.cpp:101: Line 34: Skipped comment line.
+INFO: IniFile.cpp:101: Line 36: Skipped comment line.
+INFO: IniFile.cpp:94: Line 37: Skipped empty line.
+INFO: IniFile.cpp:101: Line 38: Skipped comment line.
+INFO: IniFile.cpp:101: Line 39: Skipped comment line.
+INFO: IniFile.cpp:101: Line 40: Skipped comment line.
+INFO: IniFile.cpp:101: Line 41: Skipped comment line.
+INFO: IniFile.cpp:101: Line 42: Skipped comment line.
+INFO: IniFile.cpp:101: Line 43: Skipped comment line.
+INFO: IniFile.cpp:101: Line 44: Skipped comment line.
+INFO: IniFile.cpp:101: Line 45: Skipped comment line.
+INFO: IniFile.cpp:101: Line 46: Skipped comment line.
+INFO: IniFile.cpp:101: Line 47: Skipped comment line.
+INFO: IniFile.cpp:101: Line 48: Skipped comment line.
+INFO: IniFile.cpp:101: Line 49: Skipped comment line.
+INFO: IniFile.cpp:101: Line 50: Skipped comment line.
+INFO: IniFile.cpp:101: Line 51: Skipped comment line.
+INFO: IniFile.cpp:101: Line 52: Skipped comment line.
+INFO: IniFile.cpp:101: Line 53: Skipped comment line.
+INFO: IniFile.cpp:101: Line 54: Skipped comment line.
+INFO: IniFile.cpp:101: Line 55: Skipped comment line.
+INFO: IniFile.cpp:101: Line 56: Skipped comment line.
+INFO: IniFile.cpp:101: Line 57: Skipped comment line.
+INFO: IniFile.cpp:101: Line 58: Skipped comment line.
+INFO: IniFile.cpp:101: Line 59: Skipped comment line.
+INFO: IniFile.cpp:101: Line 60: Skipped comment line.
+INFO: IniFile.cpp:101: Line 61: Skipped comment line.
+INFO: IniFile.cpp:101: Line 62: Skipped comment line.
+INFO: IniFile.cpp:101: Line 64: Skipped comment line.
+INFO: IniFile.cpp:94: Line 65: Skipped empty line.
+INFO: IniFile.cpp:101: Line 66: Skipped comment line.
+INFO: IniFile.cpp:101: Line 67: Skipped comment line.
+INFO: IniFile.cpp:101: Line 68: Skipped comment line.
+INFO: IniFile.cpp:101: Line 69: Skipped comment line.
+INFO: IniFile.cpp:101: Line 70: Skipped comment line.
+INFO: IniFile.cpp:101: Line 71: Skipped comment line.
+INFO: IniFile.cpp:101: Line 72: Skipped comment line.
+INFO: IniFile.cpp:101: Line 74: Skipped comment line.
+INFO: IniFile.cpp:94: Line 75: Skipped empty line.
+INFO: IniFile.cpp:101: Line 76: Skipped comment line.
+INFO: IniFile.cpp:101: Line 77: Skipped comment line.
+INFO: IniFile.cpp:101: Line 78: Skipped comment line.
+INFO: IniFile.cpp:101: Line 79: Skipped comment line.
+INFO: IniFile.cpp:101: Line 80: Skipped comment line.
+INFO: IniFile.cpp:101: Line 81: Skipped comment line.
+INFO: IniFile.cpp:101: Line 82: Skipped comment line.
+INFO: IniFile.cpp:101: Line 83: Skipped comment line.
+INFO: IniFile.cpp:101: Line 84: Skipped comment line.
+INFO: IniFile.cpp:101: Line 85: Skipped comment line.
+INFO: IniFile.cpp:101: Line 86: Skipped comment line.
+INFO: IniFile.cpp:101: Line 88: Skipped comment line.
+INFO: IniFile.cpp:94: Line 89: Skipped empty line.
+INFO: IniFile.cpp:94: Line 90: Skipped empty line.
+INFO: IniFile.cpp:101: Line 91: Skipped comment line.
+INFO: IniFile.cpp:101: Line 92: Skipped comment line.
+INFO: IniFile.cpp:101: Line 93: Skipped comment line.
+INFO: IniFile.cpp:101: Line 94: Skipped comment line.
+INFO: IniFile.cpp:101: Line 95: Skipped comment line.
+INFO: IniFile.cpp:101: Line 96: Skipped comment line.
+INFO: IniFile.cpp:101: Line 98: Skipped comment line.
+INFO: IniFile.cpp:94: Line 99: Skipped empty line.
+INFO: IniFile.cpp:101: Line 100: Skipped comment line.
+INFO: IniFile.cpp:101: Line 101: Skipped comment line.
+INFO: IniFile.cpp:101: Line 102: Skipped comment line.
+INFO: IniFile.cpp:101: Line 103: Skipped comment line.
+INFO: IniFile.cpp:101: Line 105: Skipped comment line.
+INFO: IniFile.cpp:94: Line 106: Skipped empty line.
+INFO: IniFile.cpp:101: Line 107: Skipped comment line.
+INFO: IniFile.cpp:101: Line 108: Skipped comment line.
+INFO: IniFile.cpp:101: Line 109: Skipped comment line.
+INFO: IniFile.cpp:101: Line 110: Skipped comment line.
+INFO: IniFile.cpp:101: Line 111: Skipped comment line.
+INFO: IniFile.cpp:101: Line 112: Skipped comment line.
+INFO: IniFile.cpp:101: Line 113: Skipped comment line.
+INFO: IniFile.cpp:101: Line 114: Skipped comment line.
+INFO: IniFile.cpp:101: Line 116: Skipped comment line.
+INFO: IniFile.cpp:94: Line 117: Skipped empty line.
+INFO: IniFile.cpp:101: Line 118: Skipped comment line.
+INFO: IniFile.cpp:101: Line 119: Skipped comment line.
+INFO: IniFile.cpp:101: Line 120: Skipped comment line.
+INFO: IniFile.cpp:101: Line 121: Skipped comment line.
+INFO: IniFile.cpp:101: Line 122: Skipped comment line.
+INFO: IniFile.cpp:94: Line 124: Skipped empty line.
+INFO: IniFile.cpp:101: Line 125: Skipped comment line.
+INFO: IniFile.cpp:101: Line 126: Skipped comment line.
+INFO: IniFile.cpp:101: Line 127: Skipped comment line.
+INFO: IniFile.cpp:101: Line 128: Skipped comment line.
+INFO: IniFile.cpp:101: Line 129: Skipped comment line.
+INFO: IniFile.cpp:101: Line 130: Skipped comment line.
+INFO: IniFile.cpp:101: Line 131: Skipped comment line.
+INFO: IniFile.cpp:101: Line 132: Skipped comment line.
+INFO: IniFile.cpp:101: Line 134: Skipped comment line.
+INFO: IniFile.cpp:94: Line 135: Skipped empty line.
+INFO: IniFile.cpp:101: Line 136: Skipped comment line.
+INFO: IniFile.cpp:101: Line 137: Skipped comment line.
+INFO: IniFile.cpp:101: Line 138: Skipped comment line.
+INFO: IniFile.cpp:101: Line 140: Skipped comment line.
+INFO: IniFile.cpp:94: Line 141: Skipped empty line.
+INFO: IniFile.cpp:101: Line 142: Skipped comment line.
+INFO: IniFile.cpp:101: Line 143: Skipped comment line.
+INFO: IniFile.cpp:101: Line 144: Skipped comment line.
+INFO: IniFile.cpp:101: Line 146: Skipped comment line.
+INFO: IniFile.cpp:94: Line 147: Skipped empty line.
+INFO: IniFile.cpp:101: Line 148: Skipped comment line.
+INFO: IniFile.cpp:101: Line 149: Skipped comment line.
+INFO: IniFile.cpp:101: Line 150: Skipped comment line.
+INFO: IniFile.cpp:101: Line 152: Skipped comment line.
+INFO: IniFile.cpp:94: Line 153: Skipped empty line.
+INFO: IniFile.cpp:101: Line 154: Skipped comment line.
+INFO: IniFile.cpp:101: Line 155: Skipped comment line.
+INFO: IniFile.cpp:101: Line 156: Skipped comment line.
+INFO: IniFile.cpp:101: Line 157: Skipped comment line.
+INFO: IniFile.cpp:101: Line 158: Skipped comment line.
+INFO: IniFile.cpp:101: Line 159: Skipped comment line.
+INFO: IniFile.cpp:94: Line 164: Skipped empty line.
+INFO: IniFile.cpp:101: Line 165: Skipped comment line.
+INFO: IniFile.cpp:101: Line 166: Skipped comment line.
+INFO: IniFile.cpp:101: Line 167: Skipped comment line.
+INFO: IniFile.cpp:101: Line 169: Skipped comment line.
+INFO: IniFile.cpp:94: Line 170: Skipped empty line.
+INFO: IniFile.cpp:101: Line 171: Skipped comment line.
+INFO: IniFile.cpp:101: Line 172: Skipped comment line.
+INFO: IniFile.cpp:101: Line 174: Skipped comment line.
+INFO: IniFile.cpp:94: Line 175: Skipped empty line.
+INFO: IniFile.cpp:101: Line 176: Skipped comment line.
+INFO: IniFile.cpp:101: Line 177: Skipped comment line.
+INFO: IniFile.cpp:94: Line 179: Skipped empty line.
+INFO: IniFile.cpp:101: Line 180: Skipped comment line.
+INFO: IniFile.cpp:101: Line 181: Skipped comment line.
+INFO: IniFile.cpp:101: Line 182: Skipped comment line.
+INFO: IniFile.cpp:94: Line 184: Skipped empty line.
+INFO: IniFile.cpp:101: Line 185: Skipped comment line.
+INFO: IniFile.cpp:101: Line 186: Skipped comment line.
+INFO: IniFile.cpp:101: Line 187: Skipped comment line.
+INFO: IniFile.cpp:94: Line 189: Skipped empty line.
+INFO: IniFile.cpp:101: Line 190: Skipped comment line.
+INFO: IniFile.cpp:101: Line 191: Skipped comment line.
+INFO: IniFile.cpp:94: Line 193: Skipped empty line.
+INFO: IniFile.cpp:101: Line 194: Skipped comment line.
+INFO: IniFile.cpp:101: Line 195: Skipped comment line.
+INFO: IniFile.cpp:94: Line 197: Skipped empty line.
+INFO: IniFile.cpp:101: Line 198: Skipped comment line.
+INFO: IniFile.cpp:101: Line 199: Skipped comment line.
+INFO: IniFile.cpp:94: Line 201: Skipped empty line.
+INFO: IniFile.cpp:101: Line 202: Skipped comment line.
+INFO: IniFile.cpp:101: Line 203: Skipped comment line.
+INFO: IniFile.cpp:94: Line 205: Skipped empty line.
+INFO: IniFile.cpp:101: Line 206: Skipped comment line.
+INFO: IniFile.cpp:94: Line 208: Skipped empty line.
+INFO: IniFile.cpp:101: Line 209: Skipped comment line.
+INFO: IniFile.cpp:94: Line 211: Skipped empty line.
+INFO: IniFile.cpp:101: Line 212: Skipped comment line.
+INFO: IniFile.cpp:94: Line 214: Skipped empty line.
+INFO: IniFile.cpp:101: Line 215: Skipped comment line.
+INFO: IniFile.cpp:94: Line 217: Skipped empty line.
+INFO: IniFile.cpp:101: Line 218: Skipped comment line.
+INFO: IniFile.cpp:94: Line 220: Skipped empty line.
+INFO: IniFile.cpp:101: Line 221: Skipped comment line.
+INFO: IniFile.cpp:101: Line 222: Skipped comment line.
+INFO: IniFile.cpp:101: Line 223: Skipped comment line.
+emulator: trying to load skin file 'f:\android\sdk\skins\\nexus_6\layout'
+emulator:     no qwerty2.kcm in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+INFO: IniFile.cpp:173: Failed to process .ini file C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\quickbootChoice.ini for reading.
+emulator:     no qwerty2.kcm in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: WARNING: encryption is off
+emulator: Checking whether Windows Hypervisor Platform (WHPX) is available.
+emulator: Could not load library WinHvPlatform.dll
+emulator: WHPX is either not available or not installed.
+emulator: CPU Acceleration: working
+emulator: CPU Acceleration status: HAXM version 7.4.1 (4) is installed and usable.
+emulator: found system.img in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: Qt lib path: ..\emulator\lib64\qt\lib
+
+emulator: Qt plugin path: ..\emulator\lib64\qt\plugins
+
+emulator: setFrameAlways: kEventScreenChanged
+VERBOSE: AdbInterface.cpp:159: Found: 2 adb executables
+VERBOSE: AdbInterface.cpp:161: Adb: f:\android\sdk\platform-tools\adb.exe
+VERBOSE: AdbInterface.cpp:161: Adb: ..\platform-tools\adb.exe
+VERBOSE: AdbInterface.cpp:180: Path:f:\android\sdk\platform-tools\adb.exe protocol version: 40
+VERBOSE: AdbInterface.cpp:180: Path:..\platform-tools\adb.exe protocol version: 40
+VERBOSE: AdbHostServer.cpp:49: Send [000chost:version] to adb daemon.
+VERBOSE: AdbHostServer.cpp:69: ReadResponse: [OKAY]
+VERBOSE: AdbHostServer.cpp:69: ReadResponse: [0004]
+VERBOSE: AdbHostServer.cpp:69: ReadResponse: [0028]
+VERBOSE: AdbHostServer.cpp:115:  Server version: 40
+emulator: found skin 'nexus_6' in directory: f:\android\sdk\skins\
+emulator: skin_winsys_set_window_icon
+emulator: skin_surface_width 0
+emulator: skin_surface_height 0
+emulator: skin_surface_width 1
+emulator: skin_surface_height 1
+emulator: skin_winsys_get_preferred_gles_backend
+emulator: skin_winsys_get_preferred_gles_apilevel
+emulator: skin_winsys_get_preferred_gles_apilevel
+emulator: GPU emulation enabled using 'host' mode
+emulator: Initializing hardware OpenGLES emulation support
+emulator: screen_recorder_init(w=1440, h=2560, isGuestMode=0)
+emulator:     no VerifiedBootParams.textproto in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+VERBOSE: load_config.cpp:238: Verified boot params were not found.
+emulator: Found 4 DNS servers: 192.168.1.1 fec0:0:0:ffff::1 fec0:0:0:ffff::2 fec0:0:0:ffff::3
+Content of hardware configuration file:
+  hw.cpu.arch = x86_64
+  hw.cpu.ncore = 4
+  hw.ramSize = 1024
+  hw.screen = multi-touch
+  hw.mainKeys = false
+  hw.trackBall = false
+  hw.keyboard = true
+  hw.keyboard.lid = false
+  hw.keyboard.charmap = qwerty2
+  hw.dPad = false
+  hw.rotaryInput = false
+  hw.gsmModem = true
+  hw.gps = true
+  hw.battery = true
+  hw.accelerometer = true
+  hw.gyroscope = true
+  hw.audioInput = true
+  hw.audioOutput = true
+  hw.sdCard = true
+  hw.sdCard.path = C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\sdcard.img
+  disk.cachePartition = true
+  disk.cachePartition.path = C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\cache.img
+  disk.cachePartition.size = 66m
+  test.quitAfterBootTimeOut = -1
+  hw.lcd.width = 1440
+  hw.lcd.height = 2560
+  hw.lcd.depth = 16
+  hw.lcd.density = 560
+  hw.lcd.backlight = true
+  hw.gpu.enabled = true
+  hw.gpu.mode = host
+  hw.initialOrientation = Portrait
+  hw.camera.back = virtualscene
+  hw.camera.front = emulated
+  vm.heapSize = 384
+  hw.sensors.light = true
+  hw.sensors.pressure = true
+  hw.sensors.humidity = true
+  hw.sensors.proximity = true
+  hw.sensors.magnetic_field = true
+  hw.sensors.magnetic_field_uncalibrated = true
+  hw.sensors.gyroscope_uncalibrated = true
+  hw.sensors.orientation = true
+  hw.sensors.temperature = true
+  hw.useext4 = true
+  hw.arc = false
+  hw.arc.autologin = false
+  kernel.path = f:\android\sdk\system-images\android-25\default\x86_64\\kernel-ranchu
+  kernel.newDeviceNaming = yes
+  kernel.supportsYaffs2 = no
+  disk.ramdisk.path = f:\android\sdk\system-images\android-25\default\x86_64\\ramdisk.img
+  disk.systemPartition.initPath = f:\android\sdk\system-images\android-25\default\x86_64\\system.img
+  disk.systemPartition.size = 2765m
+  disk.vendorPartition.size = 0
+  disk.dataPartition.path = C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\userdata-qemu.img
+  disk.dataPartition.size = 800m
+  PlayStore.enabled = false
+  avd.name = Nexus_6_API_25
+  fastboot.forceColdBoot = false
+.
+QEMU options list:
+emulator: argv[00] = "F:\android\sdk\tools\..\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe"
+emulator: argv[01] = "-dns-server"
+emulator: argv[02] = "192.168.1.1,fec0:0:0:ffff::1,fec0:0:0:ffff::2,fec0:0:0:ffff::3"
+emulator: argv[03] = "-mem-path"
+emulator: argv[04] = "C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\snapshots\default_boot\ram.img"
+emulator: argv[05] = "-mem-file-shared"
+emulator: argv[06] = "-serial"
+emulator: argv[07] = "con:"
+emulator: argv[08] = "-device"
+emulator: argv[09] = "goldfish_pstore,addr=0xff018000,size=0x10000,file=C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\data\misc\pstore\pstore.bin"
+emulator: argv[10] = "-cpu"
+emulator: argv[11] = "android64"
+emulator: argv[12] = "-enable-hax"
+emulator: argv[13] = "-smp"
+emulator: argv[14] = "cores=4"
+emulator: argv[15] = "-m"
+emulator: argv[16] = "1024"
+emulator: argv[17] = "-lcd-density"
+emulator: argv[18] = "560"
+emulator: argv[19] = "-nodefaults"
+emulator: argv[20] = "-kernel"
+emulator: argv[21] = "f:\android\sdk\system-images\android-25\default\x86_64\\kernel-ranchu"
+emulator: argv[22] = "-initrd"
+emulator: argv[23] = "f:\android\sdk\system-images\android-25\default\x86_64\\ramdisk.img"
+emulator: argv[24] = "-drive"
+emulator: argv[25] = "if=none,index=0,id=system,file=f:\android\sdk\system-images\android-25\default\x86_64\\system.img,read-only"
+emulator: argv[26] = "-device"
+emulator: argv[27] = "virtio-blk-pci,drive=system,modern-pio-notify"
+emulator: argv[28] = "-drive"
+emulator: argv[29] = "if=none,index=1,id=cache,file=C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\cache.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576"
+emulator: argv[30] = "-device"
+emulator: argv[31] = "virtio-blk-pci,drive=cache,modern-pio-notify"
+emulator: argv[32] = "-drive"
+emulator: argv[33] = "if=none,index=2,id=userdata,file=C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\userdata-qemu.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576"
+emulator: argv[34] = "-device"
+emulator: argv[35] = "virtio-blk-pci,drive=userdata,modern-pio-notify"
+emulator: argv[36] = "-drive"
+emulator: argv[37] = "if=none,index=3,id=sdcard,file=C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\sdcard.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576"
+emulator: argv[38] = "-device"
+emulator: argv[39] = "virtio-blk-pci,drive=sdcard,modern-pio-notify"
+emulator: argv[40] = "-netdev"
+emulator: argv[41] = "user,id=mynet"
+emulator: argv[42] = "-device"
+emulator: argv[43] = "virtio-net-pci,netdev=mynet"
+emulator: argv[44] = "-device"
+emulator: argv[45] = "virtio-rng-pci"
+emulator: argv[46] = "-show-cursor"
+emulator: argv[47] = "-L"
+emulator: argv[48] = "F:\android\sdk\emulator/lib/pc-bios"
+emulator: argv[49] = "-soundhw"
+emulator: argv[50] = "hda"
+emulator: argv[51] = "-vga"
+emulator: argv[52] = "none"
+emulator: argv[53] = "-append"
+emulator: argv[54] = "qemu=1 no_timer_check androidboot.hardware=ranchu androidboot.serialno=EMULATOR28X0X23X0 clocksource=pit no-kvmclock console=ttyS0,38400 androidboot.console=ttyS0 android.qemud=1 android.checkjni=1 qemu.gles=1 qemu.opengles.version=131072 cma=314M@0-4G ndns=4 qemu.wifi=1 mac80211_hwsim.channels=2 androidboot.android_dt_dir=/sys/bus/platform/devices/ANDR0001:00/properties/android/ loop.max_part=7 ramoops.mem_address=0xff018000 ramoops.mem_size=0x10000 memmap=0x10000$0xff018000 qemu.dalvik.vm.heapsize=384m"
+emulator: argv[55] = "-android-hw"
+emulator: argv[56] = "C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\hardware-qemu.ini"
+Concatenated QEMU options:
+ F:\android\sdk\tools\..\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe -dns-server 192.168.1.1,fec0:0:0:ffff::1,fec0:0:0:ffff::2,fec0:0:0:ffff::3 -mem-path C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\snapshots\default_boot\ram.img -mem-file-shared -serial con: -device goldfish_pstore,addr=0xff018000,size=0x10000,file=C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\data\misc\pstore\pstore.bin -cpu android64 -enable-hax -smp cores=4 -m 1024 -lcd-density 560 -nodefaults -kernel f:\android\sdk\system-images\android-25\default\x86_64\\kernel-ranchu -initrd f:\android\sdk\system-images\android-25\default\x86_64\\ramdisk.img -drive if=none,index=0,id=system,file=f:\android\sdk\system-images\android-25\default\x86_64\\system.img,read-only -device virtio-blk-pci,drive=system,modern-pio-notify -drive if=none,index=1,id=cache,file=C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\cache.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576 -device virtio-blk-pci,drive=cache,modern-pio-notify -drive if=none,index=2,id=userdata,file=C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\userdata-qemu.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576 -device virtio-blk-pci,drive=userdata,modern-pio-notify -drive if=none,index=3,id=sdcard,file=C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\sdcard.img.qcow2,overlap-check=none,cache=unsafe,l2-cache-size=1048576 -device virtio-blk-pci,drive=sdcard,modern-pio-notify -netdev user,id=mynet -device virtio-net-pci,netdev=mynet -device virtio-rng-pci -show-cursor -L F:\android\sdk\emulator/lib/pc-bios -soundhw hda -vga none -append "qemu=1 no_timer_check androidboot.hardware=ranchu androidboot.serialno=EMULATOR28X0X23X0 clocksource=pit no-kvmclock console=ttyS0,38400 androidboot.console=ttyS0 android.qemud=1 android.checkjni=1 qemu.gles=1 qemu.opengles.version=131072 cma=314M@0-4G ndns=4 qemu.wifi=1 mac80211_hwsim.channels=2 androidboot.android_dt_dir=/sys/bus/platform/devices/ANDR0001:00/properties/android/ loop.max_part=7 ramoops.mem_address=0xff018000 ramoops.mem_size=0x10000 memmap=0x10000$0xff018000 qemu.dalvik.vm.heapsize=384m" -android-hw C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\hardware-qemu.ini
+emulator: skin_spawn_thread
+emulator: Starting QT main loop
+
+emulator: Android qemu version 28.0.23.0 (build_id 5264690) (CL:be2be19ca0131957449e8c0ded5e55070f9537b0)
+
+emulator: Starting QEMU main loop
+emulator: android_qemud_init
+emulator: Registered QEMUD service boot-properties
+emulator: registered 'boot-properties' qemud service
+emulator: Registered QEMUD service hw-control
+emulator: android_hw_control_init: hw-control qemud handler initialized
+emulator: Adding boot property: 'ro.opengles.version' = '131072'
+emulator: Registered QEMUD service camera
+emulator: Adding boot property: 'qemu.sf.fake_camera' = 'front'
+emulator: android_camera_service_init: Registered 'camera' qemud service
+emulator: Adding boot property: 'dalvik.vm.heapsize' = '384m'
+emulator: Adding boot property: 'qemu.hw.mainkeys' = '0'
+emulator: Registered QEMUD service gsm
+emulator: Registered QEMUD service gps
+emulator: Adding boot property: 'qemu.sf.lcd_density' = '560'
+HAX is working and emulator runs in fast virt mode.
+emulator: goldfish_events.have-dpad: false
+emulator: goldfish_events.have-trackball: false
+emulator: goldfish_events.have-camera: true
+emulator: goldfish_events.have-keyboard: true
+emulator: goldfish_events.have-lidswitch: false
+emulator: goldfish_events.have-tabletmode: false
+emulator: goldfish_events.have-touch: false
+emulator: goldfish_events.have-multitouch: true
+emulator: control console listening on port 5554, ADB on port 5555
+VERBOSE: AdbHostServer.cpp:49: Send [0012host:emulator:5555] to adb daemon.
+Not using any http proxy
+emulator: Registered QEMUD service sensors
+emulator: android_hw_sensors_init: sensors qemud service initialized
+emulator: Adding boot property: 'qemu.timezone' = 'Unknown/Unknown'
+emulator: Registered QEMUD service fingerprintlisten
+emulator: android_hw_fingerprint_init: fingerprint qemud listen service initialized
+
+emulator: Using EmuGL sub-window for GPU display
+emulator: skin_winsys_get_monitor_rect: (0,0) 1824x1026
+emulator: skin_surface_fill 6: 0, 0, 1896, 3054: ff808080
+emulator: skin_surface_create_window  100, 100, 510, 821
+emulator: ID of backing bitmap surface is 6
+emulator: skin_surface_get_scaled_rect 6: 229, 239, 1440, 2560 => 61, 64, 388, 690
+emulator: skin_winsys_run_ui_update
+emulator: skin_surface_fill 6: 0, 0, 1896, 3054: ff808080
+emulator: skin_winsys_set_window_pos 100, 100
+emulator: skin_winsys_run_ui_update
+emulator: skin_winsys_run_ui_update
+emulator: skin_surface_fill 6: 0, 0, 1896, 3054: ff808080
+emulator: skin_winsys_set_window_title [Android Emulator - Nexus_6_API_25:5554]
+INFO: AutomationEventSink.cpp:100: physical_model { type: ROTATION current_value { data: [-4.75, 0, 0] } } 
+emulator: sending '$GPGGA,040019,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040019,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+emulator: android_http_proxy_set add proxy 
+
+emulator: skin_winsys_set_window_title [Android Emulator - Nexus_6_API_25:5554]
+emulator: No acpi ini file provided, using default
+
+emulator:     no vendor.img in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: (metrics::NullMetricsWriter) created
+emulator: (metrics::NullMetricsReporter) created
+emulator: (metrics::reportConditional) ignoring
+emulator: (metrics::reportConditional) ignoring
+emulator: EVENT: kEventScreenChanged
+
+emulator: skin_winsys_run_ui_update
+emulator: EVENT: kEventWindowMoved x=640 y=285
+
+emulator: No acpi ini file provided, using default
+
+emulator:     no vendor.img in search dir: f:\android\sdk\system-images\android-25\default\x86_64\
+emulator: found skin 'nexus_6' in directory: f:\android\sdk\skins\
+emulator: found skin 'nexus_6' in directory: f:\android\sdk\skins\
+emulator: EVENT: kEventWindowMoved x=640 y=285
+
+emulator: maskWindowFrame: kEventWindowChanged
+emulator: emulator: skin_winsys_get_window_handle
+EVENT: kEventWindowChanged
+
+emulator: Effective win ID is 2b0c78
+emulator: skin_winsys_run_ui_update
+emulator: skin_winsys_get_window_handle: result = 0x00000000002b0c78
+emulator: skin_winsys_is_window_fully_visible
+emulator: skin_winsys_is_window_fully_visible: result = true
+emulator: skin_winsys_get_window_handle
+emulator: Effective win ID is 2b0c78
+emulator: skin_winsys_get_window_handle: result = 0x00000000002b0c78
+emulator: skin_winsys_get_window_handle
+emulator: Effective win ID is 2b0c78
+emulator: skin_winsys_get_window_handle: result = 0x00000000002b0c78
+emulator: EVENT: kEventWindowMoved x=100 y=100
+
+emulator: EVENT: kEventMouseMotion x=387 y=608 xrel=387 yrel=608 button=0
+
+emulator: skin_winsys_get_window_handle
+emulator: Effective win ID is 2b0c78
+emulator: skin_winsys_get_window_handle: result = 0x00000000002b0c78
+[    0.000000] Initializing cgroup subsys cpu
+[    0.000000] Initializing cgroup subsys cpuacct
+[    0.000000] Linux version 3.10.0+ (bjoernj@bjoernj.mtv.corp.google.com) (gcc version 4.9.x 20150123 (prerelease) (GCC) ) #257 SMP PREEMPT Fri May 19 12:01:07 PDT 2017
+[    0.000000] Command line: qemu=1 no_timer_check androidboot.hardware=ranchu androidboot.serialno=EMULATOR28X0X23X0 clocksource=pit no-kvmclock console=ttyS0,38400 androidboot.console=ttyS0 android.qemud=1 android.checkjni=1 qemu.gles=1 qemu.opengles.version=131072 cma=314M@0-4G ndns=4 qemu.wifi=1 mac80211_hwsim.channels=2 androidboot.android_dt_dir=/sys/bus/platform/devices/ANDR0001:00/properties/android/ loop.max_part=7 ramoops.mem_address=0xff018000 ramoops.mem_size=0x10000 memmap=0x10000$0xff018000 qemu.dalvik.vm.heapsize=384m ndns=4 mac80211_hwsim.mac_prefix=5554
+[    0.000000] Disabled fast string operations
+[    0.000000] e820: BIOS-provided physical RAM map:
+[    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009fbff] usable
+[    0.000000] BIOS-e820: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000003ffdffff] usable
+[    0.000000] BIOS-e820: [mem 0x000000003ffe0000-0x000000003fffffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+[    0.000000] NX (Execute Disable) protection: active
+[    0.000000] e820: user-defined physical RAM map:
+[    0.000000] user: [mem 0x0000000000000000-0x000000000009fbff] usable
+[    0.000000] user: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+[    0.000000] user: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+[    0.000000] user: [mem 0x0000000000100000-0x000000003ffdffff] usable
+[    0.000000] user: [mem 0x000000003ffe0000-0x000000003fffffff] reserved
+[    0.000000] user: [mem 0x00000000ff018000-0x00000000ff027fff] reserved
+[    0.000000] user: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+[    0.000000] SMBIOS 2.8 present.
+[    0.00000emulator: EVENT: kEventSetScale scale=0.268460
+
+emulator: found skin 'nexus_6' in directory: f:\android\sdk\skins\
+emulator: skin_surface_fill 6: 0, 0, 1896, 3054: ff808080
+emulator: skin_surface_create_window  100, 100, 510, 820
+emulator: ID of backing bitmap surface is 6
+emulator: skin_surface_get_scaled_rect 6: 229, 239, 1440, 2560 => 61, 64, 388, 690
+emulator: skin_surface_fill 6: 0, 0, 1896, 3054: ff808080
+0] No AGP bridge found
+[    0.000000] e820: last_pfn = 0x3ffe0 max_arch_pfn = 0x400000000
+[    0.000000] PAT not supported by CPU.
+[    0.000000] CPU MTRRs eamlulatolr:  maskWbindlowFraame:n kEvkentW indo-wChanged
+ emulator: EVENT: kEventWindowChanged
+
+emulator: skin_winsys_run_ui_update
+virtualized system.
+[    0.000000] found SMP MP-table at [mem 0x000f0e50-0x000f0e5f] mapped at [ffff8800000f0e50]
+[    0.000000] init_memory_mapping: [mem 0x00000000-0x000fffff]
+[    0.000000] init_memory_mapping: [mem 0x3fc00000-0x3fdfffff]
+[    0.000000] init_memory_mapping: [mem 0x3c000000emulator: found s-kin '0nexus_6' in xdirectory: f:\andro3ifd\sdk\skins\
+bfffff]
+[    0.000000] init_memory_mapping: [mem 0x00100000-0x3bffffff]
+[    0.000000] init_memory_mapping: [mem 0x3fe00000-0x3ffdffff]
+[    0.000000] cma: CMA: reserved 316 MiB at 2c000000
+[    0.00emulator: maskWi0ndowFrame: kEv0en0tWin0]dowC hRaAnged
+Memulator: EVENT: kEventWindowChanged
+
+emulator: skin_winsys_run_ui_update
+DISK: [mem 0x3fe3c000-0x3ffdffff]
+[    0.000000] ACPI: RSDP 00000000000f0c50 00014 (v00 BOCHS )
+[    0.000000] ACPI: RSDT 000000003ffe1b2b 00030 (v01 BOCHS  BXPCRSDT 00000001 BXPC 00000001)
+[    0.000000] ACPI: FACP 000000003ffe19ef 00074 (v01 BOCHS  BXPCFACP 00000001 BXPC 00000001)
+[    0.000000] ACPI: DSDT 000000003ffe0040 019AF (v01 BOCHS  BXPCDSDT 00000001 BXPC 00000001)
+[    0.000000] ACPI: FACS 000000003ffe0000 00040
+[    0.000000] ACPI: APIC 000000003ffe1a63 00090 (v01 BOCHS  BXPCAPIC 00000001 BXPC 00000001)
+[    0.000000] ACPI: HPET 000000003ffe1af3 00038 (v01 BOCHS  BXPCHPET 00000001 BXPC 00000001)
+[    0.000000] Zone ranges:
+[    0.000000]   DMA      [mem 0x00001000-0x00ffffff]
+[    0.000000]   DMA32    [mem 0x01000000-0xffffffff]
+[    0.000000]   Normal   empty
+[    0.000000] Movable zone start for each node
+[    0.000000] Early memory node ranges
+[    0.000000]   node   0: [mem 0xemula0tor: ski0n_wi0nsys0_get_window_handle
+emula1tor: 0Effect0ive w0in ID is -2b0c78
+emu0latoxr: skin_winsy0s_get_w0indo0w_ha9ndlee: resultf = 0x00000000002b0c78
+ff]
+emulator: [skin_wins ys_get_window_han dle
+emul ator : Ef0fect.ive 000win0 ID is 2b000c78
+emulator: ]skin   _nwinsys_get_wiondde ow_ handle: result = 0x00000000002b0c78
+ 0: [mem 0x00100000-0x3ffdffff]
+[    0.000000] ACPI: PM-Timer IO Port: 0x608
+[    0.000000] ACPI: LAPIC (acpi_id[0x00] lapic_id[0x00] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x01] lapic_id[0x01] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x02] lapic_id[0x02] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x03] lapic_id[0x03] enabled)
+[    0.000000] ACPI: LAPIC_NMI (acpi_id[0xff] dfl dfl lint[0x1])
+[    0.000000] ACPI: IOAPIC (id[0x00] address[0xfec00000] gsi_base[0])
+[    0.000000] IOAPIC[0]: apic_id 0, version 32, address 0xfec00000, GSI 0-23
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 5 global_irq 5 high level)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 10 global_irq 10 high level)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 11 global_irq 11 high level)
+[    0.000000] Using ACPI (MADT) for SMP configuration information
+[    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+[    0.000000] smpboot: Allowing 4 CPUs, 0 hotplug CPUs
+[    0.000000] e820: [mem 0x40000000-0xff017fff] available for PCI devices
+[    0.000000] Booting paravirtualized kernel on bare hardware
+[    0.000000] setup_percpu: NR_CPUS:4096 nr_cpumask_bits:4 nr_cpu_ids:4 nr_node_ids:1
+[    0.000000] PERCPU: Embedded 24 pages/cpu @ffff88003fc00000 s74624 r0 d23680 u524288
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 257896
+[    0.000000] Kernel command line: qemu=1 no_timer_check androidboot.hardware=ranchu androidboot.serialno=EMULATOR28X0X23X0 clocksource=pit no-kvmclock console=ttyS0,38400 androidboot.console=ttyS0 android.qemud=1 android.checkjni=1 qemu.gles=1 qemu.opengles.version=131072 cma=314M@0-4G ndns=4 qemu.wifi=1 mac80211_hwsim.channels=2 androidboot.android_dt_dir=/sys/bus/platform/devices/ANDR0001:00/properties/android/ loop.max_part=7 ramoops.mem_address=0xff018000 ramoops.mem_size=0x10000 memmap=0x10000$0xff018000 qemu.dalvik.vm.heapsize=384m ndns=4 mac80211_hwsim.mac_prefix=5554
+[    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+[    0.000000] Dentry cache hash table entries: 131072 (order: 8, 1048576 bytes)
+[    0.000000] Inode-cache hash table entries: 65536 (order: 7, 524288 bytes)
+[    0.000000] Checking aperture...
+[    0.000000] No AGP bridge found
+[    0.000000] Memory: 689228k/1048448k available (6153k kernel code, 392k absent, 358828k reserved, 7066k data, 1008k init)
+[    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=4, Nodes=1
+[    0.000000] Preemptible hierarchical RCU implementation.
+[    0.000000] 	CONFIG_RCU_FANOUT set to non-default value of 32
+[    0.000000] 	RCU restricting CPUs from NR_CPUS=4096 to nr_cpu_ids=4.
+[    0.000000] NR_IRQS:262400 nr_irqs:712 16
+[    0.000000] Console: colour dummy device 80x25
+[    0.000000] console [ttyS0] enabled
+[    0.000000] tsc: Fast TSC calibration failed
+[    0.000000] tsc: Unable to calibrate against PIT
+[    0.000000] tsc: using HPET reference calibration
+[    0.000000] tsc: Detected 2394.487 MHz processor
+[    0.050003] Calibrating delay loop (skipped), value calculated using timer frequency.. 4788.97 BogoMIPS (lpj=23944870)
+[    0.052548] pid_max: default: 32768 minimum: 301
+[    0.053678] Security Framework initialized
+[    0.054674] SELinux:  Initializing.
+[    0.055521] Mount-cache hash table entries: 256
+[    0.060128] Initializing cgroup subsys debug
+[    0.061166] Initializing cgroup subsys freezer
+[    0.062497] Disabled fast string operations
+[    0.063539] CPU0: Hyper-Threading is disabled
+[    0.064576] Last level iTLB entries: 4KB 32, 2MB 0, 4MB 2
+[    0.064576] Last level dTLB entries: 4KB 64, 2MB 0, 4MB 8
+[    0.064576] tlb_flushall_shift: 6
+[    0.068196] Freeing SMP alternatives: 24k freed
+[    0.081972] ACPI: Core revision 20130328
+[    0.083439] ACPI: All ACPI Tables successfully acquired
+[    0.091011] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+[    0.092448] smpboot: CPU0: Intel Virtual CPU (fam: 06, model: 1f, stepping: 01)
+emulator: sending '$GPGGA,040020,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040020,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+emulator: MemoryReport: uptime: 2625, Res/ResMax/Virt/VirtMax: 240353280 241979392 218914816 222683136
+[    0.100000] Performance Events: generic architected perfmon v1, core PMU driver.
+[    0.100000] ... version:                1
+[    0.100000] ... bit width:              48
+[    0.100000] ... generic registers:      4
+[    0.100000] ... value mask:             0000ffffffffffff
+[    0.100000] ... max period:             000000007fffffff
+[    0.100000] ... fixed-purpose events:   0
+[    0.100000] ... event mask:             000000000000000f
+[    0.150105] smpboot: Booting Node   0, Processors  #1[    0.050000] Disabled fast string operations
+
+[    0.170000] TSC synchronization [CPU#0 -> CPU#1]:
+[    0.170000] Measured 2664993722 cycles TSC warp between CPUs, turning off TSC clock.
+[    0.170000] tsc: Marking TSC unstable due to check_tsc_sync_source failed
+[    0.190118]  #2emulator: emulator: found skin 'nexus_6' in directory: f:\android\sdk\skins\
+EVENT: kEventSetScale scale=0.268460
+
+emulator: skin_surface_fill 6: 0, 0, 1896, 3054: ff808080
+emulator: skin_surface_create_window  100, 100, 510, 820
+emulator: ID of backing bitmap surface is 6
+emulator: skin_surface_get_scaled_rect 6: 229, 239, 1440, 2560 => 61, 64, 388, 690
+emulator: skin_surface_fill 6: 0, 0, 1896, 3054: ff808080
+emulator: maskWindowFrame: kEventWindowChanged
+emulator: EVENT: kEventWindowChanged
+
+emulator: skin_winsys_run_ui_update
+emulator: found skin 'nexus_6' in directory: f:\android\sdk\skins\
+[    0.050000] Disabled fast string operations
+emulator: maskWindowFrame: kEventWindowChanged
+emulator: EVENT: kEventWindowChanged
+
+emulator: skin_winsys_run_ui_update
+emulator: skin_winsys_get_window_handle
+emulator: Effective win ID is 2b0c78
+emulator: skin_winsys_get_window_handle: result = 0x00000000002b0c78
+emulator: skin_winsys_get_window_handle
+emulator: Effective win ID is 2b0c78
+emulator: skin_winsys_get_window_handle: result = 0x00000000002b0c78
+ #3 OK
+[    0.050000] Disabled fast string operations
+[    0.233643] Brought up 4 CPUs
+[    0.234373] smpboot: Total of 4 processors activated (19155.89 BogoMIPS)
+[    0.240775] NET: Registered protocol family 16
+[    0.242175] ACPI: bus type PCI registered
+[    0.242175] PCI: Using configuration type 1 for base access
+[    0.290073] bio: create slab <bio-0> at 0
+[    0.291166] ACPI: Added _OSI(Module Device)
+[    0.291370] ACPI: Added _OSI(Processor Device)
+[    0.292421] ACPI: Added _OSI(3.0 _SCP Extensions)
+[    0.293634] ACPI: Added _OSI(Processor Aggregator Device)
+[    0.300095] ACPI: Interpreter enabled
+[    0.300979] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S1_] (20130328/hwxface-568)
+[    0.303178] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S2_] (20130328/hwxface-568)
+[    0.305380] ACPI: (supports S0 S3 S5)
+[    0.306342] ACPI: Using IOAPIC for interrupt routing
+[    0.307569] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+[    0.320113] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+[    0.321527] acpi PNP0A03:00: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+[    0.324370] PCI host bridge to bus 0000:00
+[    0.324370] pci_bus 0000:00: root bus resource [bus 00-ff]
+[    0.324370] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7]
+[    0.330056] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff]
+[    0.331518] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff]
+[    0.333129] pci_bus 0000:00: root bus resource [mem 0x40000000-0xfebfffff]
+[    0.334727] pci_bus 0000:00: root bus resource [mem 0x100000000-0x17fffffff]
+[    0.341424] pci 0000:00:01.3: quirk: [io  0x0600-0x063f] claimed by PIIX4 ACPI
+[    0.343158] pci 0000:00:01.3: quirk: [io  0x0700-0x070f] claimed by PIIX4 SMB
+[    0.420693] acpi PNP0A03:00: Unable to request _OSC control (_OSC support mask: 0x08)
+[    0.422896] ACPI: PCI Interrupt Link [LNKA] (IRQs 5 *10 11)
+[    0.424478] ACPI: PCI Interrupt Link [LNKB] (IRQs 5 *10 11)
+[    0.426164] ACPI: PCI Interrupt Link [LNKC] (IRQs 5 10 *11)
+[    0.427701] ACPI: PCI Interrupt Link [LNKD] (IRQs 5 10 *11)
+[    0.429427] ACPI: PCI Interrupt Link [LNKS] (IRQs *9)
+[    0.430368] ACPI: Enabled 2 GPEs in block 00 to 0F
+[    0.431444] vgaarb: loaded
+[    0.431444] SCSI subsystem initialized
+[    0.431444] ACPI: bus type ATA registered
+[    0.432016] ACPI: bus type USB registered
+[    0.432016] usbcore: registered new interface driver usbfs
+[    0.440010] usbcore: registered new interface driver hub
+[    0.441314] usbcore: registered new device driver usb
+[    0.441314] pps_core: LinuxPPS API ver. 1 registered
+[    0.441314] pps_core: Software ver. 5.3.6 - Copyright 2005-2007 Rodolfo Giometti <giometti@linux.it>
+[    0.443456] PTP clock support registered
+[    0.450176] Advanced Linux Sound Architecture Driver Initialized.
+[    0.451448] PCI: Using ACPI for IRQ routing
+[    0.452837] NetLabel: Initializing
+[    0.452837] NetLabel:  domain hash size = 128
+[    0.452837] NetLabel:  protocols = UNLABELED CIPSOv4
+[    0.453234] NetLabel:  unlabeled traffic allowed by default
+[    0.460007] cfg80211: Calling CRDA to update world regulatory domain
+[    0.461582] Switching to clocksource hpet
+[    0.465737] pnp: PnP ACPI init
+[    0.465737] ACPI: bus type PNP registered
+[    0.469879] pnp: PnP ACPI: found 9 devices
+[    0.470857] ACPI: bus type PNP unregistered
+[    0.496085] NET: Registered protocol family 2
+[    0.497262] TCP established hash table entries: 8192 (order: 5, 131072 bytes)
+[    0.498933] TCP bind hash table entries: 8192 (order: 5, 131072 bytes)
+[    0.500507] TCP: Hash tables configured (established 8192 bind 8192)
+[    0.502231] TCP: reno registered
+[    0.503020] UDP hash table entries: 512 (order: 2, 16384 bytes)
+[    0.504550] UDP-Lite hash table entries: 512 (order: 2, 16384 bytes)
+[    0.506105] NET: Registered protocol family 1
+[    0.507177] pci 0000:00:00.0: Limiting direct PCI/PCI transfers
+[    0.508604] pci 0000:00:01.0: PIIX3: Enabling Passive Release
+[    0.509991] pci 0000:00:01.0: Activating ISA DMA hang workarounds
+[    0.511880] Trying to unpack rootfs image as initramfs...
+[    0.535704] Freeing initrd memory: 1680k freed
+[    0.540950] audit: initializing netlink socket (disabled)
+[    0.542583] type=2000 audit(1553140819.540:1): initialized
+[    0.545525] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+[    0.561855] VFS: Disk quotas dquot_6.5.2
+[    0.563142] Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+[    0.568061] fuse init (API version 7.22)
+[    0.569732] msgmni has been set to 1981
+[    0.575663] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 251)
+[    0.577804] io scheduler noop registered
+[    0.578738] io scheduler deadline registered
+[    0.580033] io scheduler cfq registered (default)
+[    0.581801] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[    0.601926] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+[    0.603714] ACPI: Power Button [PWRF]
+[    0.633279] ACPI: PCI Interrupt Link [LNKC] enabled at IRQ 11
+[    0.659884] ACPI: PCI Interrupt Link [LNKD] enabled at IRQ 10
+[    0.685970] ACPI: PCI Interrupt Link [LNKA] enabled at IRQ 10
+[    0.711817] ACPI: PCI Interrupt Link [LNKB] enabled at IRQ 11
+[    0.764203] Serial: 8250/16550 driver, 4 ports, IRQ sharing disabled
+[    0.789072] 00:04: ttyS0 at I/O 0x3f8 (irq = 4) is a 16550A
+[    0.796471] Non-volatile memory driver v1.3
+[    0.797512] Linux agpgart interface v0.103
+[    0.800285] [drm] Initialized drm 1.1.0 20060810
+[    0.816208] brd: module loaded
+[    0.825207] loop: module loaded
+[    0.827539]  vda: unknown partition table
+[    0.831026]  vdb: unknown partition table
+[    0.834075]  vdc: unknown partition table
+[    0.837282]  vdd:
+[    0.839667] Loading iSCSI transport class v2.0-870.
+[    0.852744] scsi0 : ata_piix
+[    0.854524] scsi1 : ata_piix
+[    0.856234] ata1: PATA max MWDMA2 cmd 0x1f0 ctl 0x3f6 bmdma 0xc140 irq 14
+[    0.857854] ata2: PATA max MWDMA2 cmd 0x170 ctl 0x376 bmdma 0xc148 irq 15
+[    0.862707] tun: Universal TUN/TAP device driver, 1.6
+[    0.863913] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+[    0.869067] e100: Intel(R) PRO/100 Network Driver, 3.5.24-k2-NAPI
+[    0.870521] e100: Copyright(c) 1999-2006 Intel Corporation
+[    0.872554] e1000: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+[    0.874209] e1000: Copyright (c) 1999-2006 Intel Corporation.
+[    0.876015] e1000e: Intel(R) PRO/1000 Network Driver - 2.3.2-k
+[    0.877717] e1000e: Copyright(c) 1999 - 2013 Intel Corporation.
+[    0.879746] sky2: driver version 1.30
+[    0.882415] PPP generic driver version 2.4.2
+[    0.884146] PPP BSD Compression module registered
+[    0.885265] PPP Deflate Compression module registered
+[    0.886458] PPP MPPE Compression module registered
+[    0.887591] NET: Registered protocol family 24
+[    0.898364] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[    0.900056] ehci-pci: EHCI PCI platform driver
+[    0.901666] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[    0.903927] uhci_hcd: USB Universal Host Controller Interface driver
+[    0.906296] usbcore: registered new interface driver usblp
+[    0.908001] usbcore: registered new interface driver usb-storage
+[    0.910201] mousedev: PS/2 mouse device common for all mice
+[    0.913987] input: qwerty2 as /devices/platform/GFSH0002:00/input/input1
+[    0.916499] rtc_cmos 00:00: RTC can wake from S4
+[    0.918452] rtc_cmos 00:00: rtc core: registered rtc_cmos as rtc0
+[    0.920131] rtc_cmos 00:00: alarms up to one day, y3k, 114 bytes nvram, hpet irqs
+[    0.923008] goldfish_rtc GFSH0007:00: rtc core: registered GFSH0007:00 as rtc1
+[    0.928640] device-mapper: uevent: version 1.0.3
+[    0.930631] device-mapper: ioctl: 4.24.0-ioctl (2013-01-15) initialised: dm-devel@redhat.com
+[    0.933049] cpuidle: using governor ladder
+[    0.934032] cpuidle: using governor menu
+[    0.936282] hidraw: raw HID events driver (C) Jiri Kosina
+[    0.945587] usbcore: registered new interface driver usbhid
+[    0.946927] usbhid: USB HID core driver
+[    0.948261] ashmem: initialized
+[    0.951796] goldfish_sync: Initialized goldfish sync device
+[    1.001128] u32 classifier
+[    1.001874]     Actions configured
+[    1.002691] Netfilter messages via NETLINK v0.30.
+[    1.003828] nf_conntrack version 0.5.0 (7925 buckets, 31700 max)
+[    1.005720] ctnetlink v0.93: registering with nfnetlink.
+[    1.007472] NF_TPROXY: Transparent proxy support initialized, version 4.1.0
+[    1.009169] NF_TPROXY: Copyright (c) 2006-2007 BalaBit IT Ltd.
+[    1.012020] xt_time: kernel timezone is -0000
+[    1.013249] ip_tables: (C) 2000-2006 Netfilter Core Team
+[    1.014510] arp_tables: (C) 2002 David S. Miller
+[    1.015637] TCP: cubic registered
+[    1.016422] Initializing XFRM netlink socket
+emulator: sending '$GPGGA,040021,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040021,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+[    1.019997] NET: Registered protocol family 10
+[    1.021292] mip6: Mobile IPv6
+[    1.022208] ip6_tables: (C) 2000-2006 Netfilter Core Team
+[    1.023558] sit: IPv6 over IPv4 tunneling driver
+emulator: MemoryReport: uptime: 3626, Res/ResMax/Virt/VirtMax: 256188416 256188416 230051840 233512960
+[    1.026441] NET: Registered protocol family 17
+[    1.027511] NET: Registered protocol family 15
+[    1.030264] registered taskstats version 1
+[    1.033941] console [netcon0] enabled
+[    1.034936] netconsole: network logging started
+[    1.036992] init: failed to probe driver -19
+[    1.038825] ALSA device list:
+[    1.039619]   #0: HDA Intel at 0xfebc0000 irq 11
+[    1.041979] Freeing unused kernel memory: 1008k freed
+[    1.043277] Write protecting the kernel read-only data: 12288k
+[    1.048080] Freeing unused kernel memory: 2028k freed
+[    1.052020] Freeing unused kernel memory: 1716k freed
+[    1.054018] init: init first stage started!
+[    1.101870] type=1403 audit(1553140820.100:2): policy loaded auid=4294967295 ses=4294967295
+[    1.103976] type=1404 audit(1553140820.100:3): enforcing=1 old_enforcing=0 auid=4294967295 ses=4294967295
+[    1.160977] init: (Initializing SELinux enforcing took 0.11s.)
+[    1.163345] init: init second stage started!
+[    1.165043] init: property_set("ro.kernel.mac80211_hwsim.channels", "2") failed
+[    1.166770] init: property_set("ro.kernel.androidboot.android_dt_dir", "/sys/bus/platform/devices/ANDR0001:00/properties/android/") failed
+[    1.170170] init: property_set("ro.kernel.qemu.dalvik.vm.heapsize", "384m") failed
+[    1.172142] init: property_set("ro.kernel.ndns", "4") failed
+[    1.173481] init: property_set("ro.kernel.mac80211_hwsim.mac_prefix", "5554") failed
+[    1.175755] init: Running restorecon...
+[    1.179708] init: waitpid failed: No child processes
+[    1.181402] init: (Loading properties from /default.prop took 0.00s.)
+[    1.183570] init: (Parsing /init.environ.rc took 0.00s.)
+[    1.184946] init: (Parsing /init.usb.rc took 0.00s.)
+[    1.186245] init: (Parsing init.ranchu-noencrypt.rc took 0.00s.)
+[    1.187667] init: (Parsing /init.ranchu.rc took 0.00s.)
+[    1.189068] init: (Parsing /init.usb.configfs.rc took 0.00s.)
+[    1.190455] init: (Parsing /init.zygote64_32.rc took 0.00s.)
+[    1.192451] init: (Parsing /init.rc took 0.01s.)
+[    1.302230] init: Starting service 'ueventd'...
+[    1.303663] init: Waiting for /dev/.coldboot_done...
+[    1.304515] ueventd: ueventd started!
+[    1.470646] ueventd: Coldboot took 0.17s.
+[    1.476872] init: Waiting for /dev/.coldboot_done took 0.17s.
+[    1.478272] init: /dev/hw_random not found
+[    1.479489] init: could not open /dev/keychord: No such file or directory
+[    1.481182] type=1400 audit(1553140820.470:4): avc:  denied  { write } for  pid=1 comm="init" name="ttyS0" dev="tmpfs" ino=105 scontext=u:r:init:s0 tcontext=u:object_r:serial_device:s0 tclass=chr_file permissive=0
+[    1.487878] init: write_file: Unable to open '/proc/sys/kernel/hung_task_timeout_secs': No such file or directory
+[    1.490333] init: write_file: Unable to open '/proc/cpu/alignment': No such file or directory
+[    1.494401] init: write_file: Unable to open '/proc/sys/abi/swp': No such file or directory
+[    1.496619] init: /dev/hw_random not found
+[    1.501400] EXT4-fs (vda): mounted filesystem with ordered data mode. Opts: (null)
+[    1.503568] fs_mgr: __mount(source=/dev/block/vda,target=/system,type=ext4)=0
+[    1.505636] EXT4-fs (vdb): Ignoring removed nomblk_io_submit option
+[    1.509280] EXT4-fs (vdb): mounted filesystem with ordered data mode. Opts: nomblk_io_submit,errors=panic
+[    1.511590] fs_mgr: __mount(source=/dev/block/vdb,target=/cache,type=ext4)=0
+[    1.513781] EXT4-fs (vdc): Ignoring removed nomblk_io_submit option
+[    1.517422] EXT4-fs (vdc): mounted filesystem with ordered data mode. Opts: errors=remount-ro,nomblk_io_submit
+[    1.519902] fs_mgr: check_fs(): mount(/dev/block/vdc,/data,ext4)=0: Success
+[    1.523493] fs_mgr: check_fs(): unmount(/data) succeeded
+[    1.525353] fs_mgr: Running /system/bin/e2fsck on /dev/block/vdc
+[    1.601968] e2fsck: e2fsck 1.42.9 (28-Dec-2013)
+[    1.601968] 
+[    1.603426] e2fsck: Pass 1: Checking inodes, blocks, and sizes
+[    1.603426] 
+[    1.605239] e2fsck: Pass 2: Checking directory structure
+[    1.605239] 
+[    1.606853] e2fsck: Pass 3: Checking directory connectivity
+[    1.606853] 
+[    1.608507] e2fsck: Pass 4: Checking reference counts
+[    1.608507] 
+[    1.610044] e2fsck: Pass 5: Checking group summary information
+[    1.610044] 
+[    1.612241] e2fsck: data: 963/49280 files (2.4% non-contiguous), 24650/204800 blocks
+[    1.612241] 
+[    1.614710] EXT4-fs (vdc): Ignoring removed nomblk_io_submit option
+[    1.618164] EXT4-fs (vdc): mounted filesystem with ordered data mode. Opts: nomblk_io_submit,errors=panic
+[    1.620468] fs_mgr: __mount(source=/dev/block/vdc,target=/data,type=ext4)=0
+[    1.623241] init: (Parsing /system/etc/init/atrace.rc took 0.00s.)
+[    1.624963] init: (Parsing /system/etc/init/audioserver.rc took 0.00s.)
+[    1.626806] init: (Parsing /system/etc/init/bootanim.rc took 0.00s.)
+[    1.628969] init: (Parsing /system/etc/init/bootstat.rc took 0.00s.)
+[    1.631186] init: (Parsing /system/etc/init/cameraserver.rc took 0.00s.)
+[    1.633212] init: (Parsing /system/etc/init/debuggerd.rc took 0.00s.)
+[    1.635088] init: (Parsing /system/etc/init/debuggerd64.rc took 0.00s.)
+[    1.636926] init: (Parsing /system/etc/init/drmserver.rc took 0.00s.)
+[    1.638749] init: (Parsing /system/etc/init/dumpstate.rc took 0.00s.)
+[    1.640898] init: (Parsing /system/etc/init/gatekeeperd.rc took 0.00s.)
+[    1.642738] init: (Parsing /system/etc/init/init-debug.rc took 0.00s.)
+[    1.644546] init: (Parsing /system/etc/init/installd.rc took 0.00s.)
+[    1.646346] init: (Parsing /system/etc/init/keystore.rc took 0.00s.)
+[    1.648148] init: (Parsing /system/etc/init/lmkd.rc took 0.00s.)
+[    1.649927] init: (Parsing /system/etc/init/logcatd.rc took 0.00s.)
+[    1.651938] init: (Parsing /system/etc/init/logd.rc took 0.00s.)
+[    1.653632] init: (Parsing /system/etc/init/mdnsd.rc took 0.00s.)
+[    1.655330] init: (Parsing /system/etc/init/mediacodec.rc took 0.00s.)
+[    1.657116] init: (Parsing /system/etc/init/mediadrmserver.rc took 0.00s.)
+[    1.659053] init: (Parsing /system/etc/init/mediaextractor.rc took 0.00s.)
+[    1.661189] init: (Parsing /system/etc/init/mediaserver.rc took 0.00s.)
+[    1.663080] init: (Parsing /system/etc/init/mtpd.rc took 0.00s.)
+[    1.664795] init: (Parsing /system/etc/init/netd.rc took 0.00s.)
+[    1.666487] init: (Parsing /system/etc/init/perfprofd.rc took 0.00s.)
+[    1.668322] init: (Parsing /system/etc/init/racoon.rc took 0.00s.)
+[    1.670095] init: (Parsing /system/etc/init/rild.rc took 0.00s.)
+[    1.672014] init: (Parsing /system/etc/init/servicemanager.rc took 0.00s.)
+[    1.673937] init: (Parsing /system/etc/init/surfaceflinger.rc took 0.00s.)
+[    1.675880] init: (Parsing /system/etc/init/uncrypt.rc took 0.00s.)
+[    1.677669] init: (Parsing /system/etc/init/vdc.rc took 0.00s.)
+[    1.679427] init: (Parsing /system/etc/init/vold.rc took 0.00s.)
+[    1.682004] type=1400 audit(1553140820.680:5): avc:  denied  { write } for  pid=1 comm="init" name="tracing_on" dev="debugfs" ino=1050 scontext=u:r:init:s0 tcontext=u:object_r:debugfs:s0 tclass=file permissive=0
+[    1.686483] init: write_file: Unable to open '/sys/kernel/debug/tracing/tracing_on': Permission denied
+[    1.689203] init: Starting service 'logd'...
+[    1.707043] logd.auditd: start
+[    1.707859] logd.klogd: 1707851900
+[    1.732305] init: (Loading properties from /system/build.prop took 0.00s.)
+[    1.733980] init: (Loading properties from /vendor/build.prop took 0.00s.)
+[    1.735649] init: (Loading properties from /factory/factory.prop took 0.00s.)
+[    1.737380] init: /recovery not specified in fstab
+[    1.738748] init: Starting service 'debuggerd'...
+[    1.740126] init: Starting service 'debuggerd64'...
+[    1.742413] init: Starting service 'vold'...
+[    1.745295] init: Not bootcharting.
+emulator: sending '$GPGGA,040022,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040022,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+emulator: MemoryReport: uptime: 4626, Res/ResMax/Virt/VirtMax: 276070400 276074496 284229632 284229632
+[    2.072093] init: Starting service 'exec 1 (/system/bin/tzdatacheck)'...
+[    2.077090] init: Service 'exec 1 (/system/bin/tzdatacheck)' (pid 1335) exited with status 0
+[    2.080346] init: (Loading properties from /data/local.prop took 0.00s.)
+[    2.116696] init: Starting service 'logd-reinit'...
+[    2.119322] init: Starting service 'healthd'...
+[    2.120654] init: Starting service 'ranchu-setup'...
+[    2.121058] logd.daemon: reinit
+[    2.121478] binder: 1337:1337 transaction failed 29189, size 0-0
+[    2.124819] init: Starting service 'qemu-props'...
+[    2.126560] init: Starting service 'lmkd'...
+[    2.128099] init: Starting service 'servicemanager'...
+emulator: qemud_service_connect_client: registered client channel -1 for 'boot-properties' service
+emulator: _qemudPipe_sendBuffers: 0004
+emulator: _qemudPipe_sendBuffers: list
+emulator: _qemud_pipe_send: len= 26 'ro.opengles.version=131072'
+emulator: _qemud_pipe_send: len= 25 'qemu.sf.fake_camera=front'
+emulator: _qemud_pipe_send: len= 23 'dalvik.vm.heapsize=384m'
+emulator: _qemud_pipe_send: len= 18 'qemu.hw.mainkeys=0'
+emulator: _qemud_pipe_send: len= 23 'qemu.sf.lcd_density=560'
+emulator: _qemud_pipe_send: len= 29 'qemu.timezone=Unknown/Unknown'
+emulator: _qemud_pipe_send: len=  1 '\x00'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 26 (of 26)
+[    2.133136] init: Starting service 'surfaceflinger'...
+[    2.135105] init: Service 'logd-reinit' (pid 1336) exited with status 0
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 25 (of 25)
+[ emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 23 (of 23)
+   2.141807] init: property_set("ro.build.product", "generic") failed
+[  emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 18 (of 18)
+  2.144250] init: property_set("ro.product.device", "generic") failed
+[    2.146500]emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+ temulator: _qemudPipe_recvBuffers: -> 23 (of 23)
+ype=1400 auemulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 29 (of 29)
+dit(1553140821.1emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 1 (of 1)
+emulator: _qemudPipe_closeFromGuest
+40:6): avc: denied { dac_override } for pid=1338 comm="init.ranchu-cor" capability=1 scontext=u:r:goldfish_setup:s0 tcontext=u:r:goldfish_setup:s0 tclass=capability permissive=0
+[    2.147050] init: Service 'ranchu-setup' (pid 1338) exited with status 1
+[    2.148896] init: do_stop: Service dund not found
+[    2.148910] init: do_stop: Service akmd not found
+[    2.149857] init: Service 'qemu-props' (pid 1339) exited with status 0
+[    2.150027] init: service 'console' requires console
+[    2.150052] init: write_file: Unable to open '/sys/class/android_usb/android0/enable': No such file or directory
+[    2.150068] init: write_file: Unable to open '/sys/class/android_usb/android0/idVendor': No such file or directory
+[    2.150084] init: write_file: Unable to open '/sys/class/android_usb/android0/idProduct': No such file or directory
+[    2.150108] init: write_file: Unable to open '/sys/class/android_usb/android0/functions': No such file or directory
+[    2.150126] init: write_file: Unable to open '/sys/class/android_usb/android0/enable': No such file or directory
+[    2.150145] init: Starting service 'adbd'...
+[    2.150752] init: cannot find '/system/bin/update_verifier' (No such file or directory), disabling 'exec 2 (/system/bin/update_verifier)'
+[    2.150772] init: cannot find '/system/bin/install-recovery.sh' (No such file or directory), disabling 'flash_recovery'
+[    2.150845] init: Starting service 'zygote'...
+[    2.151140] init: Starting service 'zygote_secondary'...
+[    2.151322] init: Starting service 'audioserver'...
+[    2.151542] init: Starting service 'cameraserver'...
+[    2.151841] init: Starting service 'drm'...
+[    2.152163] init: Starting service 'installd'...
+[    2.152332] init: Starting service 'keystore'...
+[    2.152535] init: Starting service 'mediacodec'...
+[    2.152851] init: Starting service 'mediadrm'...
+[    2.153149] init: Starting service 'mediaextractor'...
+[    2.153439] init: Starting service 'media'...
+[    2.153721] init: Starting service 'netd'...
+[    2.153975] init: Starting service 'ril-daemon'...
+[    2.154616] init: Starting service 'ranchu-net'...
+[    2.155200] init: Starting service 'fingerprintd'...
+[    2.155372] init: Starting service 'gatekeeperd'...
+[    2.156437] init: couldn't write 1349 to /dev/cpuset/camera-daemon/tasks: No such file or directory
+VERBOSE: AdbHostServer.cpp:49: Send [0012host:emulator:5555] to adb daemon.
+[    2.210041] type=1emulator: onGuestSendCommand: [000000005432caa0] Adb connected, start proxing data
+4VERBOSE: AdbHostServer.cpp:49: Send [0012host:emulator:5555] to adb daemon.
+00 audit(1553140821.150:7): avc: denied { getattr } for pid=1348 comm="audioserver" path="/vendor" dev="rootfs" ino=4028 scontext=u:r:audicontrol_global_accept: just in (fd=1544)
+control_global_accept: creating new client
+control_global_accept: auth required 0000000054179450
+ocontrol_global_accept: just in (fd=1544)
+problem in accept: 140: resource temporarily unavailable
+sin control_client read: received 23 bytes: auth cLtOOMA+ZK
+ein control_client read: size < 0, exiting with 140: resource temporarily unavailable
+rver:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file permiin control_client read: received 6 bytes: help.!
+in control_client read: size < 0, exiting with 140: resource temporarily unavailable
+ssive=0
+[   in control_client read: received 10 bytes: avd name.!
+in control_client read: size < 0, exiting with 140: resource temporarily unavailable
+ 2.236320] type=1400 audit(1553140821.150:8): avc: denied { getattr } for pid=1353 comm="mediacodec" path="/vendor" dev="rootfs" ino=4028 scontext=u:r:mediacodec:s0 tcontext=u:object_r:rootfs:s0 tclass=in control_client read: end of connection detected !!
+destroying control client 0000000054179450
+lnk_file permissive=0
+[    2.245063] type=1400 audit(1553140821.160:9): avc: denied { getattr } for pid=1354 comm="mediadrmserver" path="/vendor" dev="rootfs" ino=4028 scontext=u:r:mediadrmserver:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file permissive=0
+[    2.251553] type=1400 audit(1553140821.180:10): avc: denied { getattr } for pid=1349 comm="cameraserver" path="/vendor" dev="rootfs" ino=4028 scontext=u:r:cameraserver:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file permissive=0
+[    2.343650] init: Starting service 'perfprofd'...
+[    2.347897] init: write_file: Unable to open '/sys/class/android_usb/android0/enable': No such file or directory
+[    2.351309] init: write_file: Unable to open '/sys/class/android_usb/android0/idVendor': No such file or directory
+[    2.355704] init: write_file: Unable to open '/sys/class/android_usb/android0/idProduct': No such file or directory
+[    2.358569] init: write_file: Unable to open '/sys/class/android_usb/android0/functions': No such file or directory
+[    2.362222] init: write_file: Unable to open '/sys/class/android_usb/android0/enable': No such file or directory
+[    2.366060] init: write_file: Unable to open '/sys/class/android_usb/android0/enable': No such file or directory
+[    2.368788] init: write_file: Unable to open '/sys/class/android_usb/android0/idVendor': No such file or directory
+[    2.372313] init: write_file: Unable to open '/sys/class/android_usb/android0/idProduct': No such file or directory
+[    2emulator: _camera_service_connect: Connecting camera client 'Factory'
+emulator: qemud_service_connect_client: registered client channel -1 for 'camera' service
+.3emulator: _qemudPipe_sendBuffers: list\x00
+emulator: _factory_client_recv Camera factory query 'list'
+emulator: _factory_client_list_cameras Replied: name=virtualscene channel=0 pix=876758866 dir=back framedims=640x480,352x288,320x240,176x144,1280x720,1280x960
+
+emulator: _qemud_pipe_send: len=  8 '00000073'
+emulator: _qemud_pipe_send: len=  3 'ok:'
+emulator: _qemud_pipe_send: len=112 'name=virtualscene channel=0 pix=876758866 dir=back framedims=640x480,352x288,320x240,176x144,1280x720,1280x960\n\x00'
+7emulator: _qemudPipe_recvBuffers: -> 8 (of 8)
+emulator: _qemudPipe_recvBuffers: -> 115 (of 115)
+5353emulator: _camera_service_connect: Connecting camera client 'name=virtualscene'
+emulator: _camera_client_create: Camera service is created for device 'virtualscene' using input channel 0
+emulator: qemud_service_connect_client: registered client channel -1 for 'camera' service
+] init: write_file: Unable to open '/sys/class/androiemulator: _qemudPipe_sendBuffers: connect\x00
+emulator: _camera_client_query_connect: Camera device 'virtualscene' is now connected
+emulator: _qemud_pipe_send: len=  8 '00000003'
+emulator: _qemud_pipe_send: len=  3 'ok\x00'
+d_emulator: _qemudPipe_recvBuffers: -> 8 (of 8)
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3)
+usb/android0/functions': No such file or directory
+[    2.384076] init: write_file: Unable to open '/sys/class/android_usb/android0/enable': No such file or directory
+[    2.787221] IPv6: ADDRCONF(NETDEV_UP): radio0-peer: link is not ready
+[    2.848607] init: Starting service 'dhcpclient_rtr'...
+[    2.898233] init: Starting service 'bootanim'...
+[    2.952577] type=1400 audit(1553140821.950:11): avc: denied { getattr } for pid=1519 comm="bootanimation" path="/vendor" dev="rootfs" ino=4028 scontext=u:r:bootanim:s0 tcontext=u:object_r:rootfs:s0 tclass=lnk_file permissive=0
+emulator: sending '$GPGGA,040023,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040023,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+emulator: MemoryReport: uptime: 5627, Res/ResMax/Virt/VirtMax: 432971776 448180224 433958912 449204224
+[    3.122560] healthd: BatteryVoltagePath not found
+[    3.124247] healthd: BatteryTemperaturePath not found
+[    3.125679] healthd: BatteryCurrentNowPath not found
+[    3.127550] healthd: BatteryFullChargePath not found
+[    3.129237] healthd: BatteryCycleCountPath not found
+[    3.147106] IPv6: ADDRCONF(NETDEV_UP): wlan1: link is not ready
+[    3.194389] init: Starting service 'ipv6proxy'...
+[    3.254508] init: Starting service 'emu_hostapd'...
+[    3.260570] init: Starting service 'dhcpserver'...
+[    3.267887] IPv6: ADDRCONF(NETDEV_CHANGE): radio0-peer: link becomes ready
+[    3.269689] warning: `hostapd' uses 32-bit capabilities (legacy support in use)
+[    3.285404] init: Service 'ranchu-net' (pid 1359) exited with status 0
+emulator: _qemudPipe_sendBuffers: disconnect\x00
+emulator: Camera device 'virtualscene' is now disconnected
+emulator: _qemud_pipe_send: len=  8 '00000003'
+emulator: _qemud_pipe_send: len=  3 'ok\x00'
+emulator: _qemudPipe_recvBuffers: -> 8 (of 8)
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3)
+emulator: qemud_service_connect_client: registered client channel -1 for 'gsm' service
+emulator: _qemudPipe_closeFromGuest
+emulator: qemud_service_connect_client: registered client channel -1 for 'gsm' service
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: ATE0Q0V1
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CTEC?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 13 '+CTEC: 1,f\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 14 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CTEC=?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 17 '+CTEC: 0,1,2,3\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 18 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: ATE0Q0V1
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: ATS0=0
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CMEE=1
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CREG=2
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CGREG=1
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CCWA=1
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CMOD=0
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CMUT=0
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CSSN=0,1
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+COLP=0
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CSCS="HEX"
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CUSD=1
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CGEREP=1,0
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CMGF=0
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 49 '%CTZV: 19/03/21:04:00:24-4:0:Unknown!Unknown\r\n\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 50 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CFUN?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 11 '+CFUN: 0\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 12 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: sending '$GPGGA,040024,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040024,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+emulator: MemoryReport: uptime: 6627, Res/ResMax/Virt/VirtMax: 691249152 691249152 626569216 626569216
+emulator: sending '$GPGGA,040025,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040025,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+emulator: MemoryReport: uptime: 7628, Res/ResMax/Virt/VirtMax: 794054656 794054656 627097600 627097600
+emulator: qemud_service_connect_client: registered client channel -1 for 'sensors' service
+emulator: _qemudPipe_sendBuffers: 000c
+emulator: _qemudPipe_sendBuffers: list-sensors
+emulator: _hwSensorClient_receive: 'list-sensors'
+emulator: _hwSensorClient_send: '2047'
+emulator: _qemud_pipe_send: len=  4 '2047'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_closeFromGuest
+emulator: qemud_service_connect_client: registered client channel -1 for 'sensors' service
+emulator: _qemudPipe_sendBuffers: 000c
+emulator: _qemudPipe_sendBuffers: list-sensors
+emulator: _hwSensorClient_receive: 'list-sensors'
+emulator: _hwSensorClient_send: '2047'
+emulator: _qemud_pipe_send: len=  4 '2047'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_closeFromGuest
+emulator: qemud_service_connect_client: registered client channel -1 for 'sensors' service
+emulator: _qemudPipe_sendBuffers: 000c
+emulator: _qemudPipe_sendBuffers: list-sensors
+emulator: _hwSensorClient_receive: 'list-sensors'
+emulator: _hwSensorClient_send: '2047'
+emulator: _qemud_pipe_send: len=  4 '2047'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_closeFromGuest
+emulator: qemud_service_connect_client: registered client channel -1 for 'sensors' service
+emulator: _qemudPipe_wakeOn: -> 2
+[    5.070437] healthd: battery l=0 v=0 t=0.0 h=2 st=3 chg=
+emulator: _hwFingerprint_connect: connect finger print listen is called
+
+emulator: qemud_service_connect_client: registered client channel -1 for 'fingerprintlisten' service
+emulator: _qemudPipe_sendBuffers: 0006
+emulator: _qemudPipe_sendBuffers: listen
+emulator: got message from guest system fingerprint HAL
+
+emulator: sending '$GPGGA,040026,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040026,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+emulator: MemoryReport: uptime: 8628, Res/ResMax/Virt/VirtMax: 921169920 927449088 710455296 726224896
+emulator: _qemudPipe_sendBuffers: connect\x00
+emulator: _camera_client_query_connect: Camera device 'virtualscene' is now connected
+emulator: _qemud_pipe_send: len=  8 '00000003'
+emulator: _qemud_pipe_send: len=  3 'ok\x00'
+emulator: _qemudPipe_recvBuffers: -> 8 (of 8)
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3)
+emulator: _qemudPipe_sendBuffers: disconnect\x00
+emulator: Camera device 'virtualscene' is now disconnected
+emulator: _qemud_pipe_send: len=  8 '00000003'
+emulator: _qemud_pipe_send: len=  3 'ok\x00'
+emulator: _qemudPipe_recvBuffers: -> 8 (of 8)
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3)
+emulator: qemud_service_connect_client: registered client channel -1 for 'gps' service
+emulator: _qemud_pipe_send: len=512 '$GPGGA,040019,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47\n$GPRMC,040019,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47\n$GPGGA,040020,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47\n$GPRMC,040020,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47\n$GPGGA,040021,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47\n$GPRMC,040021,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47\n$GPGGA,040022,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47\n$GPRMC,040022,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47\n'
+emulator: _qemud_pipe_send: len=512 '$GPGGA,040023,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47\n$GPRMC,040023,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47\n$GPGGA,040024,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47\n$GPRMC,040024,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47\n$GPGGA,040025,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47\n$GPRMC,040025,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47\n$GPGGA,040026,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47\n$GPRMC,040026,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47\n'
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+emulator: _qemudPipe_recvBuffers: -> 32 (of 32)
+[    6.251028] init: Starting service 'wpa_supplicant'...
+[    6.284708] IPv6: ADDRCONF(NETDEV_UP): wlan0: link is not ready
+emulator: _qemudPipe_sendBuffers: AT+CGSN
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 '358240051111110\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CFUN=1
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+COPS=3,0;+COPS?;+COPS=3,1;+COPS?;+COPS=3,2;+COPS?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 64 '+COPS: 0,0,"Android"\r+COPS: 0,1,"Android"\r+COPS: 0,2,"310260"\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 65 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CGREG?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 35 '+CGREG: 1,1,"0003","005b","000e"\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 36 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CREG?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 29 '+CREG: 2,1, "0003", "005b"\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_closeFromGuest
+emulator: _qemudPipe_recvBuffers: -> 30 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+COPS?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 20 '+COPS: 0,2,310260\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 21 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+COPS=3,0;+COPS?;+COPS=3,1;+COPS?;+COPS=3,2;+COPS?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 64 '+COPS: 0,0,"Android"\r+COPS: 0,1,"Android"\r+COPS: 0,2,"310260"\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 65 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CGREG?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 35 '+CGREG: 1,1,"0003","005b","000e"\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 36 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CREG?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 29 '+CREG: 2,1, "0003", "005b"\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 30 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+COPS?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 20 '+COPS: 0,2,310260\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 21 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: sending '$GPGGA,040027,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040027,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+emulator: MemoryReport: uptime: 9629, Res/ResMax/Virt/VirtMax: 1027366912 1027366912 880799744 880799744
+emulator: _qemudPipe_sendBuffers: AT+COPS=3,0;+COPS?;+COPS=3,1;+COPS?;+COPS=3,2;+COPS?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 64 '+COPS: 0,0,"Android"\r+COPS: 0,1,"Android"\r+COPS: 0,2,"310260"\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 65 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CGREG?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 35 '+CGREG: 1,1,"0003","005b","000e"\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 36 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CREG?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 29 '+CREG: 2,1, "0003", "005b"\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+[    7.153581] initemulator: _qemudPipe_recvBuffers: -> 30 (of 3760)
+: Service 'bootanim' (pid 1519) exited with status 0
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+COPS?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 20 '+COPS: 0,2,310260\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 21 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CPIN?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 15 '+CPIN: READY\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 16 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CLCC
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  3 '\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CPIN?
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 15 '+CPIN: READY\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 16 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+[    7.248177] init: write_file: Unable to open '/sys/class/android_usb/android0/enable': No such file or directory
+[    7.251168] init: write_file: Unable to open '/sys/class/android_usb/android0/idVendor': No such file or directory
+[    7.260960] init: write_file: Unable to open '/sys/class/android_usb/android0/idProduct': No such file or directory
+[    7.266130] init: write_file: Unable to open '/sys/class/android_usb/android0/functions': No such file or directory
+[    7.271001] init: write_file: Unable to open '/sys/class/android_usb/android0/enable': No such file or directory
+emulator: _qemudPipe_sendBuffers: AT+CCHO=A00000015141434C00
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  4 '1\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 5 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CIMI
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 '310260000000000\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,12258,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,0000000a2fe204000fa0aa01020000\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28480,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,000000806f40040011a0aa01020120\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28617,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,000000086fc9040011a0aa01020104\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28589,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,000000046fad04000aa0aa01020000\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28618,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,0000000a6fca040011a0aa01020105\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28433,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,000000016f11040011a0aa01020000\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28619,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28435,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,000000016f13040011a0aa01020000\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28486,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 15 '+CRSM: 148,4\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 16 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28621,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 15 '+CRSM: 148,4\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 16 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28613,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,000000f06fc504000aa0aa01020118\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28472,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,0000000f6f3804001aa0aa01020000\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28438,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,000000026f1604001aa0aa01020000\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28437,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28478,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28479,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CIMI
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 '310260000000000\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,12258,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 46 '+CRSM: 144,0,0000000a2fe204000fa0aa01020000\rOK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 47 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,12037,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28474,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28481,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28484,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28450,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28456,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=176,28506,0,0,4
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CRSM=192,28493,0,0,15
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len= 18 'ERROR: BAD COMMAND'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 19 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: AT+CFUN=0
+emulator: _qemudPipe_sendBuffers: \r
+emulator: _qemud_pipe_send: len=  2 'OK'
+emulator: _qemud_pipe_send: len=  1 '\r'
+emulator: _qemudPipe_recvBuffers: -> 3 (of 3760)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _qemudPipe_sendBuffers: 0012
+emulator: _qemudPipe_sendBuffers: set:acceleration:1
+emulator: _hwSensorClient_receive: 'set:acceleration:1'
+emulator: _hwSensorClient_receive: enabling acceleration sensor
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:8881050436'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:8881050436'
+emulator: _hwSensorClient_send: 'sync:8881050'
+emulator: _qemud_pipe_send: len= 12 'sync:8881050'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_sendBuffers: 000c
+emulator: _qemudPipe_sendBuffers: set-delay:66
+emulator: _hwSensorClient_receive: 'set-delay:66'
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:8885784983'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:8885784983'
+emulator: _hwSensorClient_send: 'sync:8885784'
+emulator: _qemud_pipe_send: len= 12 'sync:8885784'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:8954801775'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:8954801775'
+emulator: _hwSensorClient_send: 'sync:8954801'
+emulator: _qemud_pipe_send: len= 12 'sync:8954801'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: sending '$GPGGA,040028,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040028,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+emulator: MemoryReport: uptime: 10630, Res/ResMax/Virt/VirtMax: 1072025600 1072611328 875159552 887103488
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9022079729'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9022079729'
+emulator: _hwSensorClient_send: 'sync:9022079'
+emulator: _qemud_pipe_send: len= 12 'sync:9022079'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9089051483'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9089051483'
+emulator: _hwSensorClient_send: 'sync:9089051'
+emulator: _qemud_pipe_send: len= 12 'sync:9089051'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+[    8.171635] binder: release 2237:2237 transaction 12127 out, still active
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9156355096'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9156355096'
+emulator: _hwSensorClient_send: 'sync:9156355'
+emulator: _qemud_pipe_send: len= 12 'sync:9156355'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+[    8.232412] binder: 1709:1756 transaction failed 29189, size 8-0
+[    8.234008] binder: send failed reply for transaction 12127, target dead
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9224344665'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9224344665'
+emulator: _hwSensorClient_send: 'sync:9224344'
+emulator: _qemud_pipe_send: len= 12 'sync:9224344'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9291027753'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9291027753'
+emulator: _hwSensorClient_send: 'sync:9291027'
+emulator: _qemud_pipe_send: len= 12 'sync:9291027'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9358014476'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9358014476'
+emulator: _hwSensorClient_send: 'sync:9358014'
+emulator: _qemud_pipe_send: len= 12 'sync:9358014'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9425084590'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9425084590'
+emulator: _hwSensorClient_send: 'sync:9425084'
+emulator: _qemud_pipe_send: len= 12 'sync:9425084'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9492942869'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9492942869'
+emulator: _hwSensorClient_send: 'sync:9492942'
+emulator: _qemud_pipe_send: len= 12 'sync:9492942'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9560383331'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9560383331'
+emulator: _hwSensorClient_send: 'sync:9560383'
+emulator: _qemud_pipe_send: len= 12 'sync:9560383'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9629399268'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9629399268'
+emulator: _hwSensorClient_send: 'sync:9629399'
+emulator: _qemud_pipe_send: len= 12 'sync:9629399'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9702428728'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9702428728'
+emulator: _hwSensorClient_send: 'sync:9702428'
+emulator: _qemud_pipe_send: len= 12 'sync:9702428'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9769416733'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9769416733'
+emulator: _hwSensorClient_send: 'sync:9769416'
+emulator: _qemud_pipe_send: len= 12 'sync:9769416'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9836119066'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9836119066'
+emulator: _hwSensorClient_send: 'sync:9836119'
+emulator: _qemud_pipe_send: len= 12 'sync:9836119'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9903306785'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9903306785'
+emulator: _hwSensorClient_send: 'sync:9903306'
+emulator: _qemud_pipe_send: len= 12 'sync:9903306'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:9970021948'
+emulator: _qemud_pipe_send: len= 21 'guest-sync:9970021948'
+emulator: _hwSensorClient_send: 'sync:9970021'
+emulator: _qemud_pipe_send: len= 12 'sync:9970021'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 21 (of 21)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 12 (of 12)
+emulator: _qemudPipe_wakeOn: -> 2
+[    9.008958] SysRq : Emergency Remount R/O
+emulator: sending '$GPGGA,040029,3725.3199,N,12205.0400,W,1,6,,5.0,M,0.,M,,,*47'
+emulator: sending '$GPRMC,040029,A,3725.3199,N,12205.0400,W,0.00,0.00,210319,0.0,W*47'
+[    9.029emulator: MemoryReport: uptime: 11629, Res/ResMax/Virt/VirtMax: 1444945920 1459388416 910725120 929718272
+033] EXT4-fs (vdc): re-mounted. Opts: (null)
+[    9.042814] EXT4-fs (vdb): re-mounted. Opts: (null)
+[    9.055087] Emergency Remount complete
+emulator: _hwSensorClient_send: 'acceleration:0:9.77631:0.812349'
+emulator: _qemud_pipe_send: len= 31 'acceleration:0:9.77631:0.812349'
+emulator: _hwSensorClient_send: 'guest-sync:10038134680'
+emulator: _qemud_pipe_send: len= 22 'guest-sync:10038134680'
+emulator: _hwSensorClient_send: 'sync:10038134'
+emulator: _qemud_pipe_send: len= 13 'sync:10038134'
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 31 (of 31)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 22 (of 22)
+emulator: _qemudPipe_recvBuffers: -> 4 (of 4)
+emulator: _qemudPipe_recvBuffers: -> 13 (of 13)
+emulator: _qemudPipe_wakeOn: -> 2
+[    9.123392] ACPI: Preparing to enter system sleep state S5
+[    9.126263] Power down.
+emulator: (metrics::reportConditional) ignoring
+emulator: skin_winsys_run_ui_update
+INFO: AutomationController.cpp:427: Shutting down AutomationController
+emulator: (metrics::reportConditional) ignoring
+emulator: (metrics::reportConditional) ignoring
+emulator: (metrics::reportConditional) ignoring
+emulator: (metrics::reportConditional) ignoring
+emulator: Done with QEMU main loop
+emulator: skin_winsys_get_window_pos
+emulator: skin_winsys_get_window_pos: x=108 y=131
+emulator: Finished QT main loop
+
+emulator: skin_winsys_get_window_pos
+emulator: skin_winsys_get_window_pos: x=108 y=131
+emulator: User configuration saved to C:\Users\Wojtek\.android\avd\Nexus_6_API_25.avd\emulator-user.ini
+emulator: skin_surface_unref 6
+emulator: skin_surface_free 6
+emulator: skin_surface_unref 5
+emulator: skin_surface_free 5
+emulator: skin_surface_unref 0
+emulator: skin_surface_free 0
+emulator: skin_surface_unref 1
+emulator: skin_surface_free 1
+emulator: skin_surface_unref 2
+emulator: skin_surface_free 2
+emulator: skin_surface_unref 3
+emulator: skin_surface_free 3
+emulator: skin_surface_unref 4
+emulator: skin_surface_free 4
+emulator: skin_winsys_destroy
+emulator:Android emulator version 26.0.3.0 (build_id 3965150)
+emulator:Found AVD name 'Nexus_6_API_25'
+emulator:Found AVD target architecture: x86_64
+emulator:argv[0]: 'emulator.exe'; program directory: 'F:\android\sdk\tools'
+emulator:  Found directory: f:\android\sdk\system-images\android-25\default\x86_64\
+
+emulator:Probing for f:\android\sdk\system-images\android-25\default\x86_64\/kernel-ranchu: file exists
+emulator:Auto-config: -engine qemu2 (based on configuration)
+emulator:  Found directory: f:\android\sdk\system-images\android-25\default\x86_64\
+
+emulator:try dir F:\android\sdk\tools
+emulator:try dir .
+emulator:try dir ..\emulator
+emulator:Found target-specific 64-bit emulator binary: F:\android\sdk\tools\..\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe
+emulator:Adding library search path: '..\emulator/lib64'
+emulator:Adding library search path: '..\emulator/lib64/gles_swiftshader'
+emulator:Adding library search path: '..\emulator/lib64/gles_angle'
+emulator:Adding library search path: '..\emulator/lib64/gles_angle9'
+emulator:Adding library search path: '..\emulator/lib64/gles_angle11'
+emulator: Adding library search path for Qt: '..\emulator\lib64\qt\lib'
+emulator: Setting Qt plugin search path: QT_QPA_PLATFORM_PLUGIN_PATH=..\emulator\lib64\qt\plugins
+emulator:Quoted param: [F:\android\sdk\tools\..\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe]
+emulator:Quoted param: [-avd]
+emulator:Quoted param: [Nexus_6_API_25]
+emulator:Quoted param: [-shell]
+emulator:Quoted param: [-show-kernel]
+emulator:Quoted param: [-verbose]
+emulator:Quoted param: [-debug]
+emulator:Quoted param: [all]
+emulator: Running :F:\android\sdk\tools\..\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe
+emulator: qemu backend: argv[00] = "F:\android\sdk\tools\..\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe"
+emulator: qemu backend: argv[01] = "-avd"
+emulator: qemu backend: argv[02] = "Nexus_6_API_25"
+emulator: qemu backend: argv[03] = "-shell"
+emulator: qemu backend: argv[04] = "-show-kernel"
+emulator: qemu backend: argv[05] = "-verbose"
+emulator: qemu backend: argv[06] = "-debug"
+emulator: qemu backend: argv[07] = "all"
+emulator: Concatenated backend parameters:
+ F:\android\sdk\tools\..\emulator\qemu\windows-x86_64\qemu-system-x86_64.exe -avd Nexus_6_API_25 -shell -show-kernel -verbose -debug all
